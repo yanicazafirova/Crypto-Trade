@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/yanicazafirova/Crypto-Trade/issues"
   },
-  "homepage": "https://github.com/yanicazafirova/Crypto-Trade#readme"
+  "homepage": "https://github.com/yanicazafirova/Crypto-Trade#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cookie-parser": "^1.4.6",
+    "express": "^4.18.2",
+    "express-handlebars": "^6.0.7",
+    "jsonwebtoken": "^9.0.0"
+  }
 }
